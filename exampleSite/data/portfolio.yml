@@ -1,0 +1,120 @@
+# portfolio item
+item:
+  - image : "images/portfolio/ui-1.png"
+    project_url : "https://www.behance.net/gallery/92079743/Redesign-home-page"
+    category: "UI Design"
+      
+  - image : "images/portfolio/ui-2.png"
+    project_url : "https://www.behance.net/gallery/92078753/Redesign-profil-page"
+    category: "UI Design"
+
+  - image : "images/portfolio/ui-3.png"
+    project_url : "https://www.behance.net/gallery/90616541/App-mobile-touch"
+    category: "UI Design"
+
+  - image : "images/portfolio/motion-1.png"
+    project_url : "http://www.lapupille.fr/references/rte_transition_energetique/"
+    category: "Motion Design"
+
+  - image : "images/portfolio/ui-4.png"
+    project_url : "https://www.behance.net/gallery/89329979/Study-case-Reservation-Manager"
+    category: "UI Design"
+
+  - image : "images/portfolio/web-3.png"
+    project_url : "https://www.behance.net/gallery/88778345/Redesign-Website-Dosemetrix"
+    category: "Web Design"
+
+  - image : "images/portfolio/graph-5.png"
+    project_url : "https://www.behance.net/gallery/88789643/Manufacture-of-custom-motorcycle-parts"
+    category: "Graphisme"
+
+  - image : "images/portfolio/motion-2.png"
+    project_url : "http://www.lapupille.fr/references/erdf-tamaris-film/"
+    category: "Motion Design"
+
+  - image : "images/portfolio/web-4.png"
+    project_url : "https://www.behance.net/gallery/88778141/Transactionnel-mailing-Touch"
+    category: "Web Design"
+
+  - image : "images/portfolio/web-5.png"
+    project_url : "https://www.behance.net/gallery/88777997/Landing-page-Touch"
+    category: "Web Design"
+
+  - image : "images/portfolio/motion-6.png"
+    project_url : "http://www.lapupille.fr/references/renault-ze-film/"
+    category: "Motion Design"
+
+  - image : "images/portfolio/ui-5.png"
+    project_url : "https://www.behance.net/gallery/88777265/Website-Touch-v2"
+    category: "UI Design"
+
+  - image : "images/portfolio/motion-3.png"
+    project_url : "http://www.lapupille.fr/references/front_office_92_film_immobilier/"
+    category: "Motion Design"
+
+  - image : "images/portfolio/web-7.png"
+    project_url : "https://www.behance.net/gallery/88773299/Personal-access-portal"
+    category: "Web Design"
+
+  - image : "images/portfolio/graph-1.png"
+    project_url : "http://www.lapupille.fr/references/dunlop_leaflet/"
+    category: "Graphisme"
+
+  - image : "images/portfolio/web-6.png"
+    project_url : "https://www.behance.net/gallery/88767105/Access-portal-Survey-experience"
+    category: "Web Design"
+
+  - image : "images/portfolio/motion-4.png"
+    project_url : "http://www.lapupille.fr/references/total_film_jingle_convention/"
+    category: "Motion Design"
+
+  - image : "images/portfolio/web-1.png"
+    project_url : "http://www.lapupille.fr/references/ensba_durer/"
+    category: "Web Design"
+
+  - image : "images/portfolio/web-2.png"
+    project_url : "http://www.lapupille.fr/references/application_evenementielle_club-ademe-international/"
+    category: "Web Design"
+
+  - image : "images/portfolio/ui-6.png"
+    project_url : "https://www.behance.net/gallery/88758331/CEREQ-Generation-Mobile"
+    category: "UI Design"
+
+  - image : "images/portfolio/ui-7.png"
+    project_url : "https://www.behance.net/gallery/88762785/research-redesign-back-office"
+    category: "UI Design"
+
+  - image : "images/portfolio/graph-2.png"
+    project_url : "https://www.behance.net/gallery/88760115/Infographie"
+    category: "Graphisme"
+
+  - image : "images/portfolio/motion-5.png"
+    project_url : "http://www.lapupille.fr/references/erdf_evenementiel/"
+    category: "Motion Design"
+
+  - image : "images/portfolio/graph-3.png"
+    project_url : "https://www.behance.net/gallery/88759921/WAYS-album-clutch"
+    category: "Graphisme"
+
+  - image : "images/portfolio/ui-8.png"
+    project_url : "https://www.behance.net/gallery/88759513/Design-System"
+    category: "UI Design"
+
+  - image : "images/portfolio/web-8.png"
+    project_url : "https://www.behance.net/gallery/88757345/Survey-experience"
+    category: "Web Design"
+
+  - image : "images/portfolio/ui-9.png"
+    project_url : "https://www.behance.net/gallery/88756047/Website-Touch-v3"
+    category: "UI Design"
+
+  - image : "images/portfolio/graph-4.png"
+    project_url : "https://www.behance.net/gallery/88755157/Logotype-Poupi-Motors"
+    category: "Graphisme"
+     
+
+
+# client logo slider
+clients_logo_slider:
+  enable : true
+  # clients logo comes from 'data/homepage.yml' file

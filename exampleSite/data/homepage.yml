@@ -1,0 +1,165 @@
+# banner
+banner:
+  title : "Bonjour ! <br> Je suis Maxime <br> UI Designer"
+
+# about
+about:
+  enable : true
+  content : "L'UI Designer, ce trait d'union entre l'homme et la machine. C’est l’ensemble des outils qui vont nous permettre de dialoguer avec la machine. On retrouve les éléments indispensables afin de transcrire ce que nous voulons faire, dire ou ordonner à l’ordinateur en signe qu’il pourra comprendre : souris, clavier ou encore écran en sont les éléments de base. Comprendre cela, c’est accepter une vérité universelle : la machine ne parle pas le même language que nous."
+  button:
+    enable : true
+    label : "En savoir plus"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Compétences"
+  item:
+    - title : "Web Design"
+      progress : "80%"
+      color : "#fdb157"
+      
+    - title : "UI Design"
+      progress : "70%"
+      color : "#9473e6"
+      
+    - title : "Motion Design"
+      progress : "60%"
+      color : "#bdecf6"
+      
+    - title : "Graphic Design"
+      progress : "90%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  title : "Experiences"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Junior Front-End Developer"
+      company : "SYNTHESIO"
+      duration : "Août 2019 - Nov 2019"
+      
+    - logo : "images/experience/icon-3.png"
+      title : " UI Designer"
+      company : "MEDIAMETRIE"
+      duration : "Mar 2015 - Août 2019"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Motion Designer"
+      company : "LAPUPILLE"
+      duration : "Oct 2012 - Sept 2013"
+
+    - logo : "images/experience/icon-2.png"
+      title : "Webdesigner"
+      company : "CREATIVLINK"
+      duration : "Sep 2010 - Oct 2014"
+
+# education
+education:
+  enable : true
+  title : "Diplômes et certifications"
+  item:
+    - title : "Formations en ligne"
+      year : "2017 - ..."
+      academy : "Udemy - Site web de formation en ligne"
+
+    - title : "Android, développer des applications pour mobiles, les bases du language swift"
+      year : "Oct 2017"
+      academy : "Orsys, La Defense(92)"
+      
+    - title : "Master - Chef de projet web concepteur/développeur web"
+      year : "Jan 2015 - Juin 2016"
+      academy : "Institut f2i, Neuilly-Sur-Seine(92)"
+      
+    - title : "BAC - Professionnel art et métier d’art, option communication"
+      year : "Sept 2008 - Août 2010"
+      academy : "Campus Fonderie de l'Image, Bagnolet(93)"
+      
+    - title : "CAP - Dessinateur exécutant en art graphique "
+      year : "Sept 2006 - Août 2008"
+      academy : "Campus Fonderie de l'Image, Bagnolet(93)"
+
+
+# service
+service:
+  enable : true
+  title : "Services"
+  item:
+    - title : "UI Design"
+      icon : "ti-palette"
+      content : "Dans le cas d’une application Web, l’UI-Design est une interface web matérialisée par une interface graphique que l’on peut manipuler avec un navigateur Web. L’UI-Design est donc axée sur le design d’une interface graphique en s’appuyant sur des normes techniques permettant d’organiser les éléments textuels et graphiques d’une page web. Elle conditionne également la manière dont l’application ou le site internet sollicite les interactions des utilisateurs. Seulement, l’UI-Design seule ne permet pas de répondre à toutes les attentes et problématiques des internautes"
+      highlighted : false
+      source : "source: www.anthedesign.fr"
+
+    - title : "UX Design"
+      icon : "ti-vector"
+      content : "L’UX-Design est une discipline dont l’objectif est de concevoir un produit au service des utilisateurs. La difficulté est alors de faire rencontrer la stratégie du premier avec la réalité des derniers, qui ont aujourd’hui un pouvoir décisionnaire de par leurs usages et comportements. L’UX-Design propose alors une vraie réflexion en amont pour garantir in fine une expérience utilisateur optimale."
+      highlighted : true
+      source : "source: www.ux-republic.com"
+
+    - title : "Interaction Design"
+      icon : "ti-panel"
+      content : "Né avec le développement du numérique et de l’électronique, le design interactif désigne la conception d’objets ou de services interactifs. C’est une discipline transversale du design, rencontrée en design de produit, web design, design de service… Son champ d’applications est vaste  : Web & logiciels, mobiles & tablettes, TV connectée, bornes interactives, objets connectés, corps augmenté, robots. L’enjeu n’est plus seulement de proposer des expériences qui prennent forme au travers des écrans, mais aussi dans une multitude de dispositifs nouveaux, des objets connectés aux installations interactives."
+      highlighted : false
+      source : "source: www.medium.com"
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 5
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : true
+  title : "Références"
+  item:
+    - name : "Brad Frost"
+      image : "images/testimonial/client-1.png"
+      designation : "Web Designer, Créateur de l'Atomic Design"
+      URL : "https://bradfrost.com/"
+      content : "L'Atomic Design. Il s’agit donc d’une méthode de travail qui permet de s’adapter à un environnement changeant, à ses utilisateurs, tout en bénéficiant d’avantages majeurs et en simplifiant la conception des interfaces. Designers ou développeurs : en créant ainsi un système de composants qui améliorent la productivité des équipes, tout le monde y gagne !"
+      
+    - name : "Donald Norman"
+      image : "images/testimonial/client-2.png"
+      designation : "Psychologue cognitiviste, Co-fondateur de Nielsen Norman Group "
+      content : "C'est l’un des designer les plus influents du monde, auteur de nombreux livres, dont « The Design of Everyday Things », « Emotional Design: Why We Love (or Hate) Everyday Things » et « Living with Complexity » . C’est également  un homme d’affaires et un universitaire. Il est membre de la National Academy of Engineering et membre de l’Académie américaine des Arts et des Sciences. Il confonde avec Jakob Nielsen, Nielsen Norman Group, un cabinet de conseil en usabilité, qui aide les entreprises à fournir des produits et services centrés sur l’humain."
+      
+    - name : "Dan Abramov"
+      image : "images/testimonial/client-3.png"
+      designation : "Développeur, Créateur de React Hot Loader, Redux, React DnD"
+      content : "Redux est une bibliothèque open-source JavaScript de gestion d'état pour applications web. Elle est plus couramment utilisée avec des bibliothèques comme React ou Angular pour la construction d'interfaces utilisateur."
+
+# client logo slider
+clients_logo_slider:
+  enable : true
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "https://www.adobe.com/fr/creativecloud.html?gclid=Cj0KCQiA7aPyBRChARIsAJfWCgIo6rE9GtsxfErQaEeeJ6ShgZSzqhn-5w8_QC7-LerFJQAaH2IRAkMaApLsEALw_wcB&sdid=88X75SL1&mv=search&ef_id=Cj0KCQiA7aPyBRChARIsAJfWCgIo6rE9GtsxfErQaEeeJ6ShgZSzqhn-5w8_QC7-LerFJQAaH2IRAkMaApLsEALw_wcB:G:s&s_kwcid=AL!3085!3!275520168686!e!!g!!adobe%20cloud"
+
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "https://zeplin.io/"
+
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "https://www.sketch.com/" 
+    
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "https://www.figma.com/"
+    
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "https://principleformac.com/"
+      
+    - logo : "images/clients-logo/client-logo-6.png"
+      URL : "https://www.framer.com/"
+
+    - logo : "images/clients-logo/client-logo-7.png"
+      URL : "https://www.invisionapp.com/"
+
+# blog
+blog:
+  title : "Autres projets"
+  enable : true
