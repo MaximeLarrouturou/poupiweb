@@ -1,4 +1,3 @@
-baseURL = "https://maximelarrouturou.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
