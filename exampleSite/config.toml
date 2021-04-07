@@ -1,8 +1,8 @@
-baseURL = "https://maximelarrouturou.netlify.com"
+baseURL = "https://maximelarrouturou.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "UI Designer | Maxime Larrouturou"
+title = "Web Designer | Maxime Larrouturou"
 [[menu.main]]
 URL = "about"
 name = "About"
